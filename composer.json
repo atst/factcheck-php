@@ -1,0 +1,15 @@
+{
+    "name": "atst/factcheckphp",
+    "authors": [
+        {
+            "name": "Dave Marshall",
+            "email": "dave.marshall@atstsolutions.co.uk"
+        }
+    ],
+    "autoload": {
+        "files": ["factcheck.php"]
+    },
+    "require": {
+        "nikic/iter": "dev-master"
+    }
+}
